@@ -1,3 +1,4 @@
+*.pth
 # MacOS
 .DS_Store
 
